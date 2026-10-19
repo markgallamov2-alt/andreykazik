@@ -1,0 +1,12 @@
+{
+  "name": "kazino-andreya",
+  "version": "1.0.0",
+  "private": true,
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
